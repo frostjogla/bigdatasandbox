@@ -1,0 +1,17 @@
+222	17
+mmm	15
+aaa	12
+---	10
+)))	8
+000	7
+qqq	6
+hhh	6
+999	6
+lll	4
+kkk	4
+y1y	3
+rrr	3
+ppp	3
+ccc	3
+bbb	3
+111	3

@@ -1,0 +1,12 @@
+y1y	y1y	y1y	asdf	asdf
+bbb	www	rrr	dfasd	asf
+bbb	www	mmm	dfasd	asf
+bbb	www	lll	dfasd	asf
+bbb	www	aaa	dfasd	asf
+bbb	www	aaa	dfasd	asf
+bbb	www	222	dfasd	asf
+qqq	qqq	222	asdf	asdf
+y1y	y1y	222	asdf	asdf
+y1y	y1y	111	asdf	asdf
+qqq	qqq	000	asdf	asdf
+bbb	www	---	dfasd	asf

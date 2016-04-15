@@ -1,0 +1,8 @@
+bbb	www	mmm	dfasd	asf
+bbb	www	222	dfasd	asf
+y1y	y1y	222	asdf	asdf
+y1y	y1y	000	asdf	asdf
+bbb	www	---	dfasd	asf
+bbb	www	---	dfasd	asf
+bbb	www	---	dfasd	asf
+bbb	www	)))	dfasd	asf
